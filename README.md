@@ -12,7 +12,12 @@ This project analyzes 9,355 tech job records to identify key salary drivers and 
 - Data loading and validation  
 - Outlier treatment (1st–99th percentile capping)  
 - Log transformation of salary  
-- Initial distribution analysis  
+- Experience level analysis  
+- Company size analysis  
+- Work setting analysis  
+- Job category analysis  
+- Location analysis  
+- Feature engineering (one-hot encoding + grouped locations)
 
 ## Tools Used (So Far)
 - Python  
