@@ -18,9 +18,12 @@ This project analyzes 9,355 tech job records to identify key salary drivers and 
 - Job category analysis  
 - Location analysis  
 - Feature engineering (one-hot encoding + grouped locations)
+- Baseline linear regression model  
+- Model evaluation (R², MAE, RMSE)
 
 ## Tools Used (So Far)
 - Python  
 - pandas  
 - NumPy  
-- matplotlib  
+- matplotlib
+-scikit-learn
