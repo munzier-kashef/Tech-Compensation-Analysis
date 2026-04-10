@@ -26,4 +26,4 @@ This project analyzes 9,355 tech job records to identify key salary drivers and 
 - pandas  
 - NumPy  
 - matplotlib
--scikit-learn
+- scikit-learn
