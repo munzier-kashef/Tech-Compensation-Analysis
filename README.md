@@ -20,6 +20,7 @@ This project analyzes 9,355 tech job records to identify key salary drivers and 
 - Feature engineering (one-hot encoding + grouped locations)
 - Baseline linear regression model  
 - Model evaluation (R², MAE, RMSE)
+- Feature importance analysis using linear regression coefficients
 
 ## Tools Used (So Far)
 - Python  
