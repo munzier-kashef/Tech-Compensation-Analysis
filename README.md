@@ -8,7 +8,7 @@ This project analyzes 9,355 tech job records to identify key salary drivers and 
 - Apply regression models to predict salary  
 - Evaluate model performance using standard metrics  
 
-## Project Workfow
+## Project Workflow
 - Data loading and validation  
 - Outlier treatment (1st–99th percentile capping)  
 - Log transformation of salary  
@@ -33,3 +33,8 @@ This project analyzes 9,355 tech job records to identify key salary drivers and 
 - Built a baseline linear regression model to predict salary  
 - Achieved R² = 0.436, explaining 43.6% of salary variation  
 - Key drivers identified: experience level, job category, and location
+
+## Key Findings
+- Salary increases significantly with experience level, with the largest jump from Mid-level to Senior roles  
+- ML/AI roles have a median salary of $176,000, the highest across all job categories 
+- Location plays a major role, with US-based roles showing higher salaries compared to other countries  
