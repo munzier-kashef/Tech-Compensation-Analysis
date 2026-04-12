@@ -8,7 +8,7 @@ This project analyzes 9,355 tech job records to identify key salary drivers and 
 - Apply regression models to predict salary  
 - Evaluate model performance using standard metrics  
 
-## Current Progress
+## Project Workfow
 - Data loading and validation  
 - Outlier treatment (1st–99th percentile capping)  
 - Log transformation of salary  
@@ -22,9 +22,14 @@ This project analyzes 9,355 tech job records to identify key salary drivers and 
 - Model evaluation (R², MAE, RMSE)
 - Feature importance analysis using linear regression coefficients
 
-## Tools Used (So Far)
+## Tools Used
 - Python  
 - pandas  
 - NumPy  
 - matplotlib
 - scikit-learn
+
+## Final Results
+- Built a baseline linear regression model to predict salary  
+- Achieved R² = 0.436, explaining 43.6% of salary variation  
+- Key drivers identified: experience level, job category, and location
